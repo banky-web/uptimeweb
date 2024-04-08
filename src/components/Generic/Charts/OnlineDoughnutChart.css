@@ -1,0 +1,12 @@
+.hide {
+    display: none
+}
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chart-label {
+    font-size: medium;
+    margin: auto;
+}

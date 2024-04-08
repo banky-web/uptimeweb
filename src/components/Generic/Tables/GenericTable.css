@@ -1,0 +1,17 @@
+.hide {
+    display: none
+}
+.table-small {
+    vertical-align: middle;
+    font-size: small;
+    display: table;
+}
+
+.on-icon {
+font-size: 16px;
+color: green;
+}
+.off-icon {
+font-size: 16px;
+color: red;
+}

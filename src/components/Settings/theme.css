@@ -1,0 +1,12 @@
+.theme1-bg {
+    background-color: rgba(255, 255, 255, 0.925);
+}
+.theme1-secondarybg {
+    background-color: white;
+}
+.theme1-border {
+    border-radius: 3px;
+}
+.title-style {
+    font-size: 1rem;
+}

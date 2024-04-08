@@ -1,0 +1,24 @@
+.xcontainer {
+    position: relative;
+    border: 3px solid green;
+  }
+  .xcenter {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+.chart-box {
+  min-height: 35vh;
+  min-width: 60vw;
+  margin-top: 3;
+  padding: 20px;
+}
+.doughnut-box {
+  min-height: 35vh;
+   min-width: 15vw;
+   margin-top: 3;
+  padding: 20px; 
+  }
